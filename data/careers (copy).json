@@ -1,0 +1,17 @@
+[
+  {
+    "name":  "Jane Wilde",
+    "career": "entertainment",
+    "id": 1
+  },
+  {
+    "name": "Data",
+    "career": "Starfleet Officer",
+    "id": 2
+  },
+  {
+    "name": "George Tequila",
+    "career": "Professional Disc-golf Champion",
+    "id": 3
+  }
+]

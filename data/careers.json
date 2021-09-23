@@ -1,0 +1,23 @@
+[
+  {
+    "name":  "Jane Wilde",
+    "email": "jane@wilde.com",
+    "phone": "1-800-234-5679",
+    "birthdate": "01/02/2021",
+    "id": 1
+  },
+  {
+    "name": "Data",
+    "email": "data@starfleet.gov",
+    "phone": "1-800-622-1701",
+    "birthdate": "02-02-2338",
+    "id": 2
+  },
+  {
+    "name": "George Tequila",
+    "email": "george@tequila.net",
+    "phone": "1-800-837-8452",
+    "birthdate": "06/05/1520",
+    "id": 3
+  }
+]
